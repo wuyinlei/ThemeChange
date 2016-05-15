@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_window_bg">#ffffff</color>
+    <color name="blue_item_bg">#512DA8</color>
+    <color name="blue_primary_color">#673AB7</color>
+    
+    <color name="orange_window_bg">#727272</color>
+    <color name="orange_item_bg">#E64A19</color>
+    <color name="orange_primary_color">#FF5722</color>
+</resources>
